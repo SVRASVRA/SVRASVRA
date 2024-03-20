@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to my creative space on GitHub!
-I'm a Multimedia Artist specializing in game asset creation and environmental design, bringing imaginative worlds to life in Unity and Unreal Engine.
+I'm a Multimedia Artist specializing in game asset creation and environment design, bringing imaginative worlds to life in Unity and Unreal Engine.
 My journey is fueled by creativity, problem-solving, and an insatiable desire to learn in the dynamic field of digital art and game development.
 
 <!--

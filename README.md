@@ -1,10 +1,8 @@
-### Hi there 👋
-Welcome to my creative space on GitHub!
+# Hi there👋 Welcome to my creative space on GitHub!
 
-# I'm a **Multimedia Artist** specializing in game asset creation and environment design, bringing imaginative worlds to life in Blender, Unity and Unreal Engine.
-My journey is fuelled by creativity, problem-solving, and an insatiable desire to learn in the dynamic field of digital art and game development.
+### I'm a **Multimedia Artist** specializing in game asset creation and environment design, bringing imaginative worlds to life in Blender, Unity and Unreal Engine. My journey is fuelled by creativity, problem-solving, and an insatiable desire to learn in the dynamic field of digital art and game development.
 
-# What I'm learning and making⚡
+### What I'm learning and making⚡
 As I learn new techniques and dable in my creations, being it a small 3D exercise or shader, following up to a more complex project, I aim to share my breakthroughs and creative outcomes. I will be exploring 3D game assets workflow for Unity and Unreal, as well any other technique that catch my interest. 
 
 * I aim not to share complex technical insights, as I am not a technical artist by any means, instead I aim to create a repository of ideas and tests/exercizes that might be usefull to any creative in this field. *

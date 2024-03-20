@@ -5,8 +5,8 @@
 ### What I'm learning and making⚡
 As I learn new techniques and dable in my creations, I want to share my breakthroughs and creative outcomes. I will be exploring 3D game assets workflow for Unity and Unreal, as well any other techniques that catch my interest. 
 
-* I aim to create a repository of ideas and tests/exercizes that might be usefull to any creative in this field.*
-* A thank you to all who anonymously helped me in my creative journey! I mean to help you as well.*
+*I aim to create a repository of ideas and exercizes that might be usefull to any creative in this field.*
+*A thank you to all who anonymously helped me in my creative journey! I mean to help you as well.*
 <!--
 **SVRASVRA/SVRASVRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
